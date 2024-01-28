@@ -2,10 +2,11 @@
 
 `welcome to my github!`
 
-`i'm a third year software engineering student in the greater toronto area, interested in open source
-development, all things cloud, and a bit of machine learning.`
+`i'm a third year software engineering student in the greater toronto area, interested in open` 
+`source development, all things cloud, and a bit of machine learning.`
 
-`find below a collection of my open source contributions & personal projects, my favs pinned below!`
+`find below a collection of my open source contributions & personal projects, my favs pinned`
+`below!`
 
 
 
