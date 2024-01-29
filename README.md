@@ -1,12 +1,11 @@
-<img align="right" img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVrZzhlY3pyNHhyY21oZGJpNTNyOGx0bm92MjNoZzY4NWdmY2RsciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" alt="drawing" width="200"/>
+<!-- <img align="right" img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVrZzhlY3pyNHhyY21oZGJpNTNyOGx0bm92MjNoZzY4NWdmY2RsciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" alt="drawing" width="200"/> -->
 
+![Alt text](cat0.gif)
 `welcome to my github!`
 
-`i'm a third year software engineering student in the greater toronto area, interested in open` 
-`source development, all things cloud, and a bit of machine learning.`
+`i'm a third year software engineering student in the greater toronto area, interested in open source development, all things cloud, and a bit of machine learning.`
 
-`find below a collection of my open source contributions & personal projects, my favs pinned`
-`below!`
+`find below a collection of my open source contributions & personal projects, my favs pinned below!`
 
 
 
