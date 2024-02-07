@@ -2,9 +2,9 @@
 
 <img align="" img src="text\welcome.png" alt="drawing" width="200"/>
 
-<img align="" img src="text/t0.png" alt="drawing" width="500"/>
+<img align="" img src="text/t0.png" alt="drawing" width="700"/>
 
-<img align="top" img src="text/t1.png" alt="drawing" width="500"/>
+<img align="top" img src="text/t1.png" alt="drawing" width="700"/>
 
 
 
