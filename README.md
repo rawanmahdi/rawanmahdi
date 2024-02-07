@@ -1,6 +1,6 @@
 <img align="right" img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVrZzhlY3pyNHhyY21oZGJpNTNyOGx0bm92MjNoZzY4NWdmY2RsciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" alt="drawing" width="200"/>
 
-<img align="" img src="text\welcome.png" alt="drawing" width="200"/>
+<img align="" img src="text\welcome.png" alt="drawing" width="500"/>
 
 <img align="" img src="text/t0.png" alt="drawing" width="600"/>
 
