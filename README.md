@@ -2,7 +2,7 @@
 
 <img align="" img src="text\welcome0.png" alt="drawing" width="500"/>
 
-<img align="" img src="text/t.png" alt="drawing" width="600"/>
+<img align="" img src="text/text.png" alt="drawing" width="600"/>
 <!-- 
 <img align="top" img src="text/t1.png" alt="drawing" width="600"/> -->
 
