@@ -2,20 +2,16 @@
 
 <img align="" img src="text\welcome0.png" alt="drawing" width="500"/>
 
-<img align="" img src="text/t0.png" alt="drawing" width="600"/>
+<img align="" img src="text/t.png" alt="drawing" width="600"/>
+<!-- 
+<img align="top" img src="text/t1.png" alt="drawing" width="600"/> -->
 
-<img align="top" img src="text/t1.png" alt="drawing" width="600"/>
-
-
-
-
-<!-- `i'm a third year software engineering student in the greater toronto area, interested in open` 
+<!-- `i'm a third year software engineering student in the greater toronto area, interested in open`
 `source development, all things cloud, and a bit of machine learning.`
 
 `find below a collection of my open source contributions & personal projects, my favs pinned`
 `below!`
  -->
-
 
 <!-- ![Alt Text](https://media.giphy.com/media/YPJ5ew1ss91MpktBrT/giphy.gif?cid=790b7611u9ljw9x28prij6idu3qasq79crygwdc1aduwvvff&ep=v1_stickers_search&rid=giphy.gif&ct=s) -->
 
