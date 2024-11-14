@@ -5,7 +5,6 @@
 <br/>
 <br/>
 <img align="" img src="text\welcome0.png" alt="drawing" width="500"/>
-<br/>
 <img align="" img src="text/text.png" alt="drawing" width="500"/>
 
 <!--
