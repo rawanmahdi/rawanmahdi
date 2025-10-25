@@ -2,8 +2,8 @@
 
 <img align="left" img src="gifs/rawan2048.gif" alt="drawing" width="260"/>
 <br/>
-<img align="" img src="text\welcome0.png" alt="drawing" width="500"/>
-<img align="" img src="text/terminal.png" alt="drawing" width="500"/>
+<img align="" img src="text\welcome0.png" alt="drawing" width="400"/>
+<img align="" img src="text/terminal.png" alt="drawing" width="400"/>
 
 <!--
 <img align="top" img src="text/t1.png" alt="drawing" width="600"/> -->
